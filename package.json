@@ -1,0 +1,22 @@
+{
+  "name": "rectangle",
+  "version": "1.0.0",
+  "description": "矩形计算器",
+  "main": "rectangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songyingran/rectangle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songyingran/rectangle/issues"
+  },
+  "homepage": "https://github.com/songyingran/rectangle#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3"
+  }
+}
